@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/agency-tracker_26.html"
+    }
+  ]
+}
